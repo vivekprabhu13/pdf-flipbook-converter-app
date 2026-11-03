@@ -49,8 +49,8 @@ A modern, fast, and privacy-first web application that converts static PDF docum
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<your-username>/pdf-flipbook-converter.git
-   cd pdf-flipbook-converter
+   git clone https://github.com/<your-username>/pdf-flipbook-converter-app.git
+   cd pdf-flipbook-converter-app
    ```
 
 2. **Install dependencies:**
